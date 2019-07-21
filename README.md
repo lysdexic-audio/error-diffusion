@@ -1,6 +1,6 @@
 # -WIP
 
-Please add Suggestions/code/assets -- !
+https://breakcore.com.au/viewtopic.php?f=8&t=179
 
 FILE: ShaderRips - REFERENCE FOR IDEAS
 PLEASE ADD ANY SHADERS YOU LIKE :)
