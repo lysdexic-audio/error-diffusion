@@ -11,6 +11,10 @@ Audio Mic in to Light Stuff in levels
 Modular Enviroments
 SciFi Reactor Hanger (To AVisualiser and Camera tracker)
 
+- Fork of GLSLVEEJAY by maschere/glsl-vjay 
+ -- Added spout
+ -- Debug removed VU meters (gets about 120fps now via spout)
+ -- Adding shaders for Error-diffusion gig
 
 FX = https://codepen.io/AlainBarrios/pen/OEOKgm
 
