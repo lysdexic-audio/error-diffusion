@@ -15,6 +15,7 @@ SciFi Reactor Hanger (To AVisualiser and Camera tracker)
  -- Added spout
  -- Debug removed VU meters (gets about 120fps now via spout)
  -- Adding shaders for Error-diffusion gig
+ https://github.com/aday1/glsl-vjay/tree/error-diffusion
 
 FX = https://codepen.io/AlainBarrios/pen/OEOKgm
 
