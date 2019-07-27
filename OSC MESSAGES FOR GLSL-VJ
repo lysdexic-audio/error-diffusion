@@ -21,8 +21,8 @@ Turning Shit on or Off Options
  ADDRESS(/3/toggle3) FLOAT(0 OR 1) (Prority 3 * TURN SHIT ON OR OFF)
  ADDRESS(/3/toggle4) FLOAT(0 OR 1) (Prority 4 * TURN SHIT ON OR OFF)
  ADDRESS(/3/toggle5) FLOAT(0 OR 1) (Prority 5 * TURN SHIT ON OR OFF)
- ADDRESS(/3/toggle6) FLOAT(0 OR 1) (Prority 6 * TURN SHIT ON OR OFF)
- ADDRESS(/3/toggle7) FLOAT(0 OR 1) BYPASS CURTIS MAXPATCH 0 or 1
+ ADDRESS(/3/toggle6) FLOAT(0 OR 1) REFRESH SHADER FROM FILE!! (TODO)
+ ADDRESS(/3/toggle7) FLOAT(0 OR 1) BYPASS CURTIS MAXPATCH 0 or 1 (TODO) (Keyboard A/B only atm)
 
  * I have FREQ1, FREQ2, FREQ3, FREQ4 as backups if OSC looks shit.
 
