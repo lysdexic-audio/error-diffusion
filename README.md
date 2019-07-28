@@ -5,6 +5,8 @@ https://breakcore.com.au/viewtopic.php?f=8&t=179
 FILE: ShaderRips - REFERENCE FOR IDEAS
 PLEASE ADD ANY SHADERS YOU LIKE :)
 
+IDEAS - 
+
 UE4 = 
 Modular Warp Gates 
 Audio Mic in to Light Stuff in levels
@@ -16,7 +18,5 @@ SciFi Reactor Hanger (To AVisualiser and Camera tracker)
  -- Debug removed VU meters (gets about 120fps now via spout)
  -- Adding shaders for Error-diffusion gig
  https://github.com/aday1/glsl-vjay/tree/error-diffusion
-
-FX = https://codepen.io/AlainBarrios/pen/OEOKgm
 
 𝖊𝖗𝖗𝖔𝖗 𝖉𝖎𝖋𝖋𝖚𝖘𝖎𝖔𝖓
