@@ -36,9 +36,17 @@ https://weeklybeats.com/aday/music/electronic-drama-aday-vs-snuggyman-jam -- Ste
 |____||__|__||__|    \___/ 
                            
 
-#define PROCESSING_COLOR_SHADER // begining all shaders
-SHADER LIST - mathplot1.frag = TOP LAYER ONLY
+#define PROCESSING_COLOR_SHADER // shader compatibility
 
+SHADER LIST - OSC PORT 4005
+INTERNAL ROUTING PORT 4000 - BACKGROUND SHADER
+INTERNAL ROUTING PORT 4001 - FOREGROUND SHADER
+
+TouchOSC RECIEVE PORT 8000
+TouchOSC IP (at home) = 10.1.1.85
+
+CURTIS OSC RECIEVE PORT 4020
+CURTIC MAC IP (at home) = 10.1.1.130
 
   _____ __  __ _____   ____  _____ _______       _   _ _______   _ _ _ _ 
  |_   _|  \/  |  __ \ / __ \|  __ \__   __|/\   | \ | |__   __| | | | | |
@@ -48,11 +56,11 @@ SHADER LIST - mathplot1.frag = TOP LAYER ONLY
  |_____|_|  |_|_|     \____/|_|  \_\ |_/_/    \_\_| \_|  |_|    (_|_|_|_)
                                                                          
                                                                          
+If curtis NDI fails 0 backup shaders 1 - Foreground Shaders
+Turn OBS NDI OFF IF IT ISNT ALREAADY!!! ****
+Turn SPOUT SHARING FROM RESOLUME OFF IF IT ISNT ALREAADY!!! ****
 
 
- FREQ Safty Shaders (4 of em?)
-If curtis NDI fails -0 backup shaders
-Turn OBS NDI OFF IF IT ISNT ALREAADY!!! **** )___ _!!!!~$*&@~^(*&@!^%!)
 
 
 
