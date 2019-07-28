@@ -1,0 +1,56 @@
+      _    _ _____ _____ ____  
+     /\  | |  | |  __ \_   _/ __ \ 
+    /  \ | |  | | |  | || || |  | |
+   / /\ \| |  | | |  | || || |  | |
+  / ____ \ |__| | |__| || || |__| |
+ /_/    \_\____/|_____/_____\____/ 
+                                   
+                                   
+
+https://weeklybeats.com/aday/music/leastleasylease-timerestriction-mix-2 -- SONAR PULSE AND CHORDS **** High (3 minutes 5 seconds)
+
+https://weeklybeats.com/aday/music/burrrgh-bleep-beep-brrrrugghhh-snare-snare-snnnns-hihat-hi-hat-snare-kickdrum-snare-snn-snn-break-filter-phaser-buffer-rince - Snuggy Man vs Aday (3minutes 9 seconds) (It's a bit of a bad mastering job though - Can it be fixed?)
+
+https://weeklybeats.com/aday/music/propper-not-techno - 1 minute 40
+
+https://weeklybeats.com/aday/music/nuclear-bitch - if there's a tonal shift towards a demovid - 3minutes 7 seconds
+
+https://weeklybeats.com/aday/music/post-processing-algorithm -- Stems ' you could potentially rip parts outta it'
+
+https://weeklybeats.com/aday/music/reaktor-block-jam - *Mille Plateaux* 
+
+https://weeklybeats.com/aday/music/electronic-drama-aday-vs-snuggyman-jam -- Stemms? It's a good wind down track -- 8 Minutes track
+
+
+// 𝖊𝖗𝖗𝖔𝖗 𝖉𝖎𝖋𝖋𝖚𝖘𝖎𝖔𝖓
+
+    
+ ____  ____   _____   ___  
+|    ||    \ |     | /   \ 
+ |  | |  _  ||   __||     |
+ |  | |  |  ||  |_  |  O  |
+ |  | |  |  ||   _] |     |
+ |  | |  |  ||  |   |     |
+|____||__|__||__|    \___/ 
+                           
+
+#define PROCESSING_COLOR_SHADER // begining all shaders
+SHADER LIST - mathplot1.frag = TOP LAYER ONLY
+
+
+  _____ __  __ _____   ____  _____ _______       _   _ _______   _ _ _ _ 
+ |_   _|  \/  |  __ \ / __ \|  __ \__   __|/\   | \ | |__   __| | | | | |
+   | | | \  / | |__) | |  | | |__) | | |  /  \  |  \| |  | |    | | | | |
+   | | | |\/| |  ___/| |  | |  _  /  | | / /\ \ | . ` |  | |    | | | | |
+  _| |_| |  | | |    | |__| | | \ \  | |/ ____ \| |\  |  | |    |_|_|_|_|
+ |_____|_|  |_|_|     \____/|_|  \_\ |_/_/    \_\_| \_|  |_|    (_|_|_|_)
+                                                                         
+                                                                         
+
+
+ FREQ Safty Shaders (4 of em?)
+If curtis NDI fails -0 backup shaders
+Turn OBS NDI OFF IF IT ISNT ALREAADY!!! **** )___ _!!!!~$*&@~^(*&@!^%!)
+
+
+
