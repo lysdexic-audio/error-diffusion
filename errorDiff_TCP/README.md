@@ -1,7 +1,7 @@
 ## error Diffusion TCP Audio system ## APR2020
 
-MaxMSP - develop and export binary <br>
-maybe port to [openFrameworks](https://openframeworks.cc/documentation/ofxNetwork/ofxTCPClient/) eventually
+- [ ] MaxMSP - develop and export binary <br>
+- [ ] maybe(?) port to [openFrameworks](https://openframeworks.cc/documentation/ofxNetwork/ofxTCPClient/) eventually
 
 TODO;
 - [ ] Document openVPN config/setup
