@@ -1,7 +1,6 @@
 ## error Diffusion TCP Audio system ## APR2020
 
-MaxMSP - develop and export binary
-
+MaxMSP - develop and export binary <br>
 maybe port to [openFrameworks](https://openframeworks.cc/documentation/ofxNetwork/ofxTCPClient/) eventually
 
 TODO;
