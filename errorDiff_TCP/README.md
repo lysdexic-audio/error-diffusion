@@ -16,6 +16,6 @@ CREATIVE TODO;
 - [ ] network error as musical concept
 - [ ] minimalism before maximalism - system requires space to breathe
 - [ ] divide musical pattern structures
- * one does the downbeats while the other does the offbeat
- * one does the melody other does the harmony etc
- * [hocket](http://www.youtube.com/watch?v=rfco2jnGtn4) ethos
+- * one does the downbeats while the other does the offbeat
+- * one does the melody other does the harmony etc
+- * [hocket](http://www.youtube.com/watch?v=rfco2jnGtn4) ethos
