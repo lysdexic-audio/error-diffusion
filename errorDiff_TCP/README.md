@@ -5,6 +5,7 @@
 
 TODO;
 - [ ] Document openVPN config/setup
+- [ ] Comment patch for Aday
 - [ ] Test multiple simultaneous ports for discrete audio channels (acting as S/R buses)
 - [ ] Develop bidirectional transport control system
 - [ ] Envelope follower for ctrl messages (midiout)
